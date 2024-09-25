@@ -68,8 +68,8 @@ const Input = () => {
         </form>
         <div className='flex justify-center w-3/4 mx-auto relative'>
             <img src={memeObj.image} alt="" className=''/>
-            <h2 className='absolute font-bangers text-5xl top-0 left-0 right-0 text-white text-outline text-center p-2'>{memeObj.topText}</h2>
-            <h2 className='absolute bottom-0 left-0 right-0 font-bangers text-5xl text-white text-outline text-center p-2'>{memeObj.bottomText}</h2>
+            <h2 className='absolute font-bangers md:text-5xl top-0 left-0 right-0 text-white text-outline text-center p-2 text-xl'>{memeObj.topText}</h2>
+            <h2 className='absolute bottom-0 left-0 right-0 font-bangers md:text-5xl text-white text-outline text-center p-2 text-xl'>{memeObj.bottomText}</h2>
         </div>
         </>
   )
