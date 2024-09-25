@@ -1,11 +1,16 @@
 import React from 'react'
+import Header from './components/Header'
+import Input from './components/Input'
 
 const App = () => {
-  return (
-     <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+  return (<>
+ 
+     <Header/>
+     <Input/>
+      </>
   )
 }
+
+
 
 export default App
