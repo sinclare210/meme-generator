@@ -35,7 +35,7 @@ const Input = () => {
         .then((data) => setAllMemes(data.data.memes))
 
 
-    },[])
+    },[formData])
     console.log(allMemes);
 
     function handleSubmit(e){
