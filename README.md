@@ -56,8 +56,7 @@ This project is a meme generator, i built using react and i learnt about useeffe
 
 ### Continued development
 
-Working on learning to use useeffect well
-
+While building this app, I improved my skills in handling forms in React and deepened my understanding of useState for managing data. I also learnt how useEffect is useful for fetching data from APIs, and I applied it to retrieve memes for my app
 
 
 
