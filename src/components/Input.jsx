@@ -49,6 +49,8 @@ const Input = () => {
             image: randomMeme.url 
         });
 
+       
+
     }
 
 
